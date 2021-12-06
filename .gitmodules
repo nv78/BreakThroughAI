@@ -1,3 +1,6 @@
 [submodule "BT-AI-Course"]
 	path = BT-AI-Course
 	url = https://github.com/srush/BT-AI
+[submodule "Verizon"]
+	path = Verizon
+	url = https://github.com/sahar-sami/amazon-reviews-sentiment-analysis

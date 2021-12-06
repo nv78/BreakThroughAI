@@ -4,3 +4,6 @@
 [submodule "Verizon"]
 	path = Verizon
 	url = https://github.com/sahar-sami/amazon-reviews-sentiment-analysis
+[submodule "JPMC1"]
+	path = JPMC1
+	url = https://github.com/JZBlank/JPMorganChase-Meme-Stocks.git

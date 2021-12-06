@@ -10,3 +10,6 @@
 [submodule "JPMC2"]
 	path = JPMC2
 	url = https://github.com/EstherWhang/jpm_changepoint.git
+[submodule "CapitalOne"]
+	path = CapitalOne
+	url = https://github.com/connieDeng/Capital-One-QnA.git

@@ -12,6 +12,6 @@ Next, students join the AI Studio where they work in teams to solve industry cha
 
 **JPMChase-Meme-Stocks** is a project with JP Morgan Chase on correlating sentiment analysis from social media to Stock Prices.
 
-**amazon-reviews-sentiment-analysis** is a project with Verizon on using NLP to understand sentiments of Amazon Reviews.
+**Verizon** is a project with Verizon on using NLP to understand sentiments of Amazon Reviews.
 
 **Capital-One-QnA** is a project with Capital One using text summarization and QnA models to dissect really long documents.

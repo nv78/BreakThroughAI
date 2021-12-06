@@ -7,3 +7,6 @@
 [submodule "JPMC1"]
 	path = JPMC1
 	url = https://github.com/JZBlank/JPMorganChase-Meme-Stocks.git
+[submodule "JPMC2"]
+	path = JPMC2
+	url = https://github.com/EstherWhang/jpm_changepoint.git

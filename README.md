@@ -8,10 +8,10 @@ Developed by industry and academic leaders, students begin with a summer  ML  En
 
 Next, students join the AI Studio where they work in teams to solve industry challenges and develop a portfolio of AI projects that demonstrate their capabilities. Throughout the program, students receive career coaching, mentorship, and summer internship placement support, all aimed at helping participants successfully launch their AI tech career.
 
-**jpm-changepoint** is a project with JP Morgan Chase on change point detection algorithms.
+**JPMC2** is a project with JP Morgan Chase on change point detection algorithms.
 
-**JPMChase-Meme-Stocks** is a project with JP Morgan Chase on correlating sentiment analysis from social media to Stock Prices.
+**JPMC1** is a project with JP Morgan Chase on correlating sentiment analysis from social media to Stock Prices.
 
 **Verizon** is a project with Verizon on using NLP to understand sentiments of Amazon Reviews.
 
-**Capital-One-QnA** is a project with Capital One using text summarization and QnA models to dissect really long documents.
+**CapitalOne** is a project with Capital One using QnA models to summarize information from long documents.
